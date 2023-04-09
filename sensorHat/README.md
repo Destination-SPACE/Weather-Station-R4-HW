@@ -7,7 +7,7 @@
 - GUVB-S11SD UVB (300nm) sensor
 - BH1750 ambient light sensor
 
-![](sensorHatFront.png)
-![](sensorHatBack.png)
+![](sensorHatTop.png)
+![](sensorHatBottom.png)
 ![](sensorHatIso.png)
 ![](sensorHatRouting.png)
