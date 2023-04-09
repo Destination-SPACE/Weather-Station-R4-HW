@@ -11,4 +11,5 @@ Hardware repository for the Destination Weather Station R4 remote sensing platfo
 
 ![](wxFront.png)
 ![](wxBack.png)
+![](wxIso.png)
 ![](wxRouting.png)
