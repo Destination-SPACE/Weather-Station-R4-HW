@@ -1,4 +1,5 @@
 # Destination Weather Station Sensor Hat - Hardware
+Hardware for the Destination Weather Station Sensor Hat environmental sensor expansion board
 
 ## Features
 - SCD40 CO<sub>2</sub> sensor
