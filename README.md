@@ -1,7 +1,7 @@
 # Destination Weather Station R4 - Hardware
 Hardware repository for the Destination Weather Station R4 remote sensing platform
 
-# Features
+## Features
 - Seeeduino XIAO SAMD21 M0 microcontroller
 - BME280 environmental sensor
 - 128x64 OLED display
