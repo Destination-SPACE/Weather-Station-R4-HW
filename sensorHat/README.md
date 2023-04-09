@@ -6,6 +6,7 @@
 - GUVA-S12SD UVA (350nm) sensor
 - GUVB-S11SD UVB (300nm) sensor
 - BH1750 ambient light sensor
+- Weather Station mezzanine connectors (reversable)
 
 ![](sensorHatTop.png)
 ![](sensorHatBottom.png)
